@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "bride-gold-jewellery",
+        "price": 10000,
+        "img": "https://i.ibb.co/7Q7r6LN/bride-gold-jewellery.jpg"
+    },
+    {
+        "id": 2,
+        "name": "collection-vintage-jewelry",
+        "price": 8800,
+        "img": "https://i.ibb.co/QbB7fx6/collection-vintage-jewelry.jpg"
+    },
+    {
+        "id": 3,
+        "name": "gold",
+        "price": 9000,
+        "img": "https://i.ibb.co/HhS6fbv/gold.jpg"
+    },
+    {
+        "id": 4,
+        "name": "gold-chain",
+        "price": 8000,
+        "img": "https://i.ibb.co/DQCPPyG/gold-chain.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Gold-jwelery",
+        "price": 8500,
+        "img": "https://i.ibb.co/dD4hxFD/Gold-jwelery.jpg"
+    },
+    {
+        "id": 6,
+        "name": "gold-star-jewelry",
+        "price": 9200,
+        "img": "https://i.ibb.co/dD4hxFD/Gold-jwelery.jpg"
+    },
+    {
+        "id": 7,
+        "name": "large-gold-chain",
+        "price": 9500,
+        "img": "https://i.ibb.co/Bf7J5FN/large-gold-chain.jpg"
+    },
+    {
+        "id": 8,
+        "name": "stylish-indian-necklace",
+        "price": 90000,
+        "img": "https://i.ibb.co/tKx2jWQ/stylish-indian-necklace.jpg"
+    },
+    {
+        "id": 9,
+        "name": "vintage-nacre-emerald-gold",
+        "price": 8000,
+        "img": "https://i.ibb.co/wYpD76j/vintage-nacre-emerald-gold.jpg"
+    }
+]
