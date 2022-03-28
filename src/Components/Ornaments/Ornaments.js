@@ -2,7 +2,7 @@ import React from 'react';
 import './Ornaments.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
-import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
+
 const Ornaments = ({ ornament, handlerAddToCart }) => {
     const { id, name, price } = ornament;
 
