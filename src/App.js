@@ -9,9 +9,8 @@ function App() {
     <div>
       <Header></Header>
       <h1 className='ornament-title'>Ornament House</h1>
-
-      <Article></Article>
       <Home></Home>
+      <Article></Article>
     </div>
   );
 }

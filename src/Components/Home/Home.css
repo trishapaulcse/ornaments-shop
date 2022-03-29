@@ -5,11 +5,12 @@
     display: grid;
     grid-template-columns: 4fr 1fr;
 }
-.ornaments-container{
+.ornament-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     padding-left: 20px;
     gap: 20px;
+
 }
 .selected-ornaments{
     padding: 0 10px 0 10px;
